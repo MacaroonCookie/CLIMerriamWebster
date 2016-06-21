@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import sys
+import ConfigArgParse
 
 def main(args=None):
   if( args is None ):
