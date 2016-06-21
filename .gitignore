@@ -89,7 +89,7 @@ ENV/
 .ropeproject
 
 # VIM backups
-.sw*
+*.sw*
 
 # Config Files
 climw.conf
