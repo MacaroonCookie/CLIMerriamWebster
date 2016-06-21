@@ -8,7 +8,7 @@ except ImportError:
 __version__ = '0.1.0-alpha'
 
 setup(
-    name          = 'CLIMerriamWebster'
+    name          = 'CLIMerriamWebster',
     version       = __version__,
     description   = 'A Linux command line tool to look up definitions and synonyms for words using the Merriam Webster, Dicionary.com resource.',
     author        = 'Seth Cook',
